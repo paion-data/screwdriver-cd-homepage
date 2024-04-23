@@ -1,7 +1,6 @@
 
 # Site settings
-baseurl: "/screwdriver-cd-homepage"
-url: "https://paion-data.github.io"
+url: https://screwdriver.paion-data.dev
 title: screwdriver.cd
 analytics: UA-88158708-2
 
